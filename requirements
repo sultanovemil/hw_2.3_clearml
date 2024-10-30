@@ -1,3 +1,4 @@
 clearml
-pandas
 scikit-learn
+pandas
+matplotlib
